@@ -42,7 +42,7 @@ def print_word_counts(count_dict):
         print(item[0], " ", item[1])
 
 
-
+# word_counter("test.txt")
 
 word_counts = word_counter("test.txt")
 
